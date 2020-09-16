@@ -1,0 +1,45 @@
+#set-bio .containers {
+    min-width: 80%;
+    min-height: 90%;
+    margin: 20px;
+    margin-top: 10px;
+    border: 0.5rem solid orange;
+    overflow:hidden;
+    overflow: auto;
+
+}
+
+#set-bio .container_rest {
+    max-height: 85vh;
+    max-width: 75%;
+}
+
+#set-bio .all_info {
+    min-height: 85vh;
+    margin-bottom: 10px;
+}
+
+#bio {
+    font-size: 100%;
+    width: 80%;
+    height: 500px;
+    padding: 3px;
+    margin: 0;
+    border: 1px solid gray;
+}
+
+#set-bio button {
+    margin-right: 10px;
+}
+
+#set-bio textarea {
+    margin: 0 auto;
+}
+
+#set-bio p {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+

@@ -1,0 +1,78 @@
+
+#allview div {
+    text-align: left;
+}
+
+
+#allview input[type="submit"]{
+    width: 100px;
+    padding: 5px 0px;
+    float: right;
+    background-color: orange;
+    margin-top: -24px;
+  }
+  #allview input[type="text"]{
+    width: 43%;
+    padding: 8px 0px;
+    border: 1px solid #dfdfdf;
+    text-indent: 5px;
+  }
+  
+  #allview input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    font-style: italic;
+    padding: 5px;
+  }
+  #allview .comment-content{
+    width: 100%;
+    padding: 10px;
+    min-height: 80px;
+    outline: none;
+    background: #f9f9f9;
+    border-radius: 0px 0px 5px 5px;
+  }
+  #allview .comment-post {
+    background-color: yellow;
+    width:40%;
+    display: none;
+  }
+  #allview .comment-post i{
+    padding: 0 0px 0px 10px;
+  }
+  #allview .content{
+    width: 100%;
+  }
+  #allview .username {
+  color: #4c6c85;
+  }
+  #allview .comments{
+    width: 600px;
+    margin-left: 90px;
+
+  }
+  
+  #allview .insert-text{
+    position: relative;
+    margin: 10px 0px 30px 0px;
+  }
+  #allview .list-comments{
+    margin-top: 30px;
+    border-bottom: 1px solid #dfdfdf;
+    width: 100%;
+  }
+  
+  #allview .list-comments > div{
+    padding: 10px 0px;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    overflow-wrap: break-word;
+  }
+   
+  #allview textarea {
+    border: 1px solid #dfdfdf;
+    resize: none;
+    overflow: auto;
+  }
+  
+  #allview .comment-content:focus{
+    background: #fff;
+  }

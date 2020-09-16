@@ -1,0 +1,9 @@
+(16/11/2019)
+
+- Finished STAC-11: Category divisor
+  - STAC-59: Alim created the controller to set/get the category
+  - STAC-60: David created the front end for seeing profile of the vendor in auctions
+- Finished STAC-12: Posts for vendors/sellers
+  - STAC-61: Afzal finished the controller that retrieves the sales info
+- Finished subtask (STAC-57) of STAC-7: Searching
+  - Muhes finished STAC-57: Adding outline for the search bar

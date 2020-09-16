@@ -1,0 +1,5 @@
+(10/31/2019)
+
+- David finished front end view for creating post
+- Afzal finished post controller
+- Post view design still in process

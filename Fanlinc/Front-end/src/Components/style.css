@@ -1,0 +1,77 @@
+
+div#foo {
+    background-color: white;
+    font-size: 20px;
+  }
+ div#foo .form {
+    background-color: rgb(231, 233, 227);
+      margin:auto;
+      margin-top: 7%;
+      width:580px;
+      height: 470px;
+      justify-content: space-around;
+      padding: 30px;
+      border: solid orange;
+      opacity: 0.9;
+      border-radius: 3%;
+      font-size: 18px;
+  }
+  div#foo input{
+      padding: 10px;
+      margin: 10px;
+  }
+  
+ div#foo .btn {
+      margin-left:215px;
+      display: flex;
+      color:white;
+      background-color: #e36e0f
+  }
+ div#foo .info {
+      display: flex;
+      justify-content: center;
+  }
+  
+ div#foo .name {
+      display: flex;
+      justify-content: center;
+  }
+ div#foo .location {
+      display: flex;
+      justify-content: center;
+  }
+ div#foo .userpass {
+      display: flex;
+      justify-content: center;
+  }
+ div#foo .roles {
+      display: flex;
+      justify-content: center;
+  }
+ div#foo h1 {
+      text-align: center;
+      color: #e36e0f;
+  }
+  
+ div#foo p {
+      text-align: center;
+      color: #e36e0f;
+  }
+ div#foo a, .Message {
+      display: flex;
+      justify-content: center;
+  }
+
+.bg {
+  /* The image used */
+  background-image: url("/background.jpg");
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    backgound-size: cover, contain;
+}
+
+
+  

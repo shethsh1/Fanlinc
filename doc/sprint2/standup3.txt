@@ -1,0 +1,5 @@
+(10/26/2019)
+
+- Started breaking down user stories. Broke down the first user story (STAC-34) into one sub task. Put it in jira as creating fandom controller in the "to-do" part
+- Muhes started and finished the outline for the fandom page.
+- Looked at our system design and saw if we needed to update it. No final decisions were made

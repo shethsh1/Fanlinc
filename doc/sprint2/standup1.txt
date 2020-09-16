@@ -1,0 +1,5 @@
+(10/24/2019)
+
+- Started inital meeting for sprint 2. All participants showed up.
+- Discussed if we needed to update any user stories (PB.md), or the system design
+- Learned more about Jira and Github as we weren't fully knowledgable last sprint. Decided to commit more distributively

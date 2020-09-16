@@ -1,0 +1,4 @@
+(07/11/2019)
+- Sprint 2 Retrospective meeting. All participants showed up. Our TA, Joe, pointed out the flaws in sprint 2.
+- Discussed if we needed to update user stories (PB.md), or the system design
+- We made the front end the environmental variable and removed localhost:5000

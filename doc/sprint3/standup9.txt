@@ -1,0 +1,8 @@
+(17/11/2019)
+
+- Finished STAC-13: Being a cosplayer
+  - Muneeb finished adding a cosplayer collage on a user's profile
+- Finished STAC-7: Searching
+  - Didar finished creating controllers to see queries for searches
+  - Muhes finished the outline for adding a search bar
+  - Muneeb finished front end for searching

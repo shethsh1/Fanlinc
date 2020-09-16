@@ -1,0 +1,6 @@
+(10/29/2019)
+
+- David finished post model
+- Afzal is working on post controller
+- Polished up the user stories on Jira and split them into subtasks properly
+- Planned out the front and back end for post

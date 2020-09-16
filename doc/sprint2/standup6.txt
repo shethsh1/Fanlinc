@@ -1,0 +1,5 @@
+(10/30/2019)
+
+- The team is still designing the front end for posts, and post commenting
+- Looked over user stories, decided nothing final
+- Everyone working hard

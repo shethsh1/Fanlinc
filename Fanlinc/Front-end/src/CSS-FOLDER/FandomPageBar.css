@@ -1,0 +1,85 @@
+
+/* SIDEBAR */
+
+.sidebar {
+    color:white;
+    min-height: 100%; 
+    min-width: 130px;
+    position: absolute; 
+    z-index: 1; 
+    top:35px; /* CHANGE oTHIS IF THE SIDEBAR IS TOO HIGH OR TOO LOW */
+    left: 0;
+    background-color: #e36e0f; 
+    padding-top: 5px;
+  }
+
+  .sidebarFandom{
+      min-width: 100%;
+      padding: 7px;
+  }
+
+  .sidebarFandom:hover{
+      background-color: #dfdfdf
+
+  }
+
+  .sidebarFandom:visited{
+    color: #1f37c0
+  }
+
+  .sidebarFandom a{
+    color:rgb(83, 77, 77)
+  }
+
+/* SIDEBAR */
+
+/* NAVBAR */
+
+
+/* NAVBAR */
+
+/* PREVIEW*/
+.rest {
+    /*
+    position: relative;
+    
+    */
+    display:block;
+    flex: 0 0 auto;
+    justify-content: center;
+    margin-top:40px;
+    margin-left:80px;
+    min-height: 90%;
+    min-width: 100%;
+    text-align: center;
+}
+
+.rest h4{
+}
+
+.rest div {
+    text-align: center;
+    border: rgb(172, 161, 161) solid;
+    margin:8px;
+    background-color: #dfdfdf;
+    border-radius: 1px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+}
+.rest div:hover {
+    border: black solid 1px;
+    background-color: #e36e0f;
+    cursor: pointer;
+
+}
+
+.rest div:hover i{
+color: white;
+
+}
+
+.rest div i{
+
+    color: #e36e0f;
+}
+

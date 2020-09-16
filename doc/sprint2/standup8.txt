@@ -1,0 +1,6 @@
+(01/11/2019)
+
+- Muneeb finished comment model 
+- Shaahid updated system architecture/design and repolished crc cards (added 2 of them)
+- Shaahid finished post controller
+- Everyone else working on their parts

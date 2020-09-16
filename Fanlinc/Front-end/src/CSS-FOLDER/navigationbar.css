@@ -1,0 +1,83 @@
+
+*{
+  padding: 0;
+}
+
+
+
+.NavBarContainer{
+  display: flex;
+  position: relative;
+}
+
+.NavBarContainer .sidebar{
+  width: 200px;
+  height: 100%;
+  background: aliceblue;
+  padding: 30px 0px;
+  position: fixed;
+}
+
+
+
+.NavBarContainer .sidebar ul li{
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(255,255,255,0.05);
+}    
+
+.NavBarContainer .sidebar ul li a{
+  color: black;
+  display: block;
+  padding: 15px;
+}
+
+
+.NavBarContainer .sidebar ul li:hover{
+  background-color: orange;
+}
+    
+
+
+
+.container_rest{
+  width: 100%;
+  margin-left: 200px;
+}
+
+.container_rest .header{
+  padding: 20px;
+  background: #fff;
+  color: #717171;
+  border-bottom: 1px solid #e0e4e8;
+}
+
+.container_rest .all_info{
+  margin: 25;
+  color: #717171;
+  line-height: 25px;
+}
+
+.container_rest .all_info div{
+  margin-bottom: 20px;
+}
+
+
+
+i {
+  padding-right: 10px;
+}
+
+
+
+.fanlincLogo {
+  width: 125px;
+  height: 125px;
+}
+
+.pads {
+  padding-left: 25px;
+}
+
+a.current {
+  background-color: orange;
+}

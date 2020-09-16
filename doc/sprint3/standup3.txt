@@ -1,0 +1,4 @@
+(09/11/2019)
+- Sprint 3 planning meeting today. All participants showed up.
+- Worked together to make subtasks on Jira for the user stories we're working on this sprint.
+- Decided who's going to do what verbally, but no final decisions. Will make the final assignees tomorrow.

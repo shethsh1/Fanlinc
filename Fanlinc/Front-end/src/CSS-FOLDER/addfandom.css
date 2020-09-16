@@ -1,0 +1,88 @@
+#addFandom .containers {
+    min-width: 80%;
+    min-height: 90%;
+    margin: 20px;
+    border: 0.5rem solid orange;
+    margin-left: 20px;
+    
+    
+}
+
+#addFandom .container_rest {
+    min-height: 100%;
+    max-width: 75%;
+}
+
+#addFandom .all_info {
+    min-height: 100%;
+    margin-bottom: 10px;
+    
+}
+
+#genre {
+    padding-right: 10px;
+    width: 150px;
+    height:29px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.adding {
+    height: 25%;
+    width: 50%;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+#joinFandom {
+    padding-right: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.joining {
+    height: 20%;
+    width: 50%;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 0 auto;
+    overflow:hidden;
+    
+}
+
+.levels-fandom {
+    font-weight: bold;
+}
+
+.button-fandom {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 60px;
+    background-color: red;
+
+}
+
+#btn-success {
+    color: #fff;
+    background-color: orange;
+    border-color: orange;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+#delete-fandom {
+    height: 20%;
+    width: 50%;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 0 auto;
+
+    
+}
+
+#addFandom form {
+    overflow: hidden;
+}

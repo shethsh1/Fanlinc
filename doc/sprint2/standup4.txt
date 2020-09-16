@@ -1,0 +1,8 @@
+(10/28/2019)
+
+- Shaahid, Muneeb, Didar, Alim finished working on fandom controllers and view for adding fandoms (first user story).
+	- Muneeb finished STAC-34 (adding/updating fandom controllers) from in progress to done.
+	- Didar finished user input error.
+	- Alim did get Fandom for the fandom controller
+- Afzal finished STAC-4 (distinguish what type of fan you are)
+

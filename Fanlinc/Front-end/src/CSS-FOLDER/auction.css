@@ -1,0 +1,68 @@
+ #auction .card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 25%;
+  height: 15%;
+  border-color: black;
+  text-align: center;
+}
+
+#auction .card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#auction .container {
+  padding: 2px 16px;
+}
+
+
+#auction .button{
+  text-align: center;
+}
+
+#auction .searchdiv {
+  display: flex;
+  justify-content: center;
+}
+
+
+#auction table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+#auction td, #auction th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  border: 2px solid rgb(26, 8, 0);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+
+}
+
+#auction tr:nth-child(even) {background-color: #ff9355;}     /* Delete if error */
+
+
+
+
+#auction-items .container_rest {
+  height: 100%;
+  width: 75%;
+}
+
+#auction-items .containers {
+  min-width: 80%;
+  min-height: 90%;
+  margin: 20px;
+  border: 0.5rem solid orange;
+  margin-left: 20px;
+
+}
+
+#auction-items .all_info {
+  height: 100%;
+  margin-bottom: 15px;
+}

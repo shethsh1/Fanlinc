@@ -1,0 +1,62 @@
+div#bar {
+    background-color: white;
+    font-size: 20px;
+  }
+  div#bar .form {
+    background-color: rgb(231, 233, 227);
+      margin:auto;
+      margin-top: 10%;
+      width:480px;
+      height: 350px;
+      justify-content: space-around;
+      padding: 30px;
+      border: solid orange;
+      opacity: 0.9;
+      border-radius: 3%;
+      font-size: 18px;
+  }
+   div#bar input{
+      padding: 10px;
+      margin: 10px;
+  }
+  
+  div#bar .btn {
+      margin-left:175px;
+      display: flex;
+      color:white;
+      background-color: #e36e0f
+  }
+  div#bar .info {
+      display: flex;
+      justify-content: center;
+  }
+  
+  div#bar .name {
+      display: flex;
+      justify-content: center;
+  }
+  div#bar .location {
+      display: flex;
+      justify-content: center;
+  }
+  div#bar .userpass {
+      display: flex;
+      justify-content: center;
+  }
+  div#bar .reenter {
+      display: flex;
+      justify-content: center;
+  }
+  div#bar h1 {
+      text-align: center;
+      color: #e36e0f;
+  }
+  
+  div#bar h3 {
+      text-align: center;
+      color: white;
+  }
+  div#bar a {
+      display: flex;
+      justify-content: center;
+  }

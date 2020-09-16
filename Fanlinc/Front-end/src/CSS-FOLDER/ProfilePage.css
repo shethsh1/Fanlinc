@@ -1,0 +1,157 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+
+.page-header {
+    height: 8vh;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+}
+
+.container_rest {
+    height: 100%;
+    width: 100%;
+}
+
+.containers {
+    min-width: 80%;
+    min-height: 90%;
+    margin: 20px;
+    border: 0.5rem solid orange;
+    margin-left: 20px;
+    position: absolute;
+}
+
+
+.basic-info {
+
+    margin-left: 30px;
+    margin-top: -10px;
+    overflow: hidden;
+    
+
+}
+
+
+
+.value-bar {
+    width: 55%;
+    text-align: left;
+    margin-bottom: 30;
+
+}
+
+.table {
+    border: 0.1rem solid #ccc;
+
+}
+
+.all_info {
+    height: 100%;
+}
+
+
+
+#table-pad {
+    padding: 20px;
+}
+
+
+
+  .basic-bio {
+      width: 50%;
+  }
+
+
+#bio-text {
+
+    position: relative;
+    text-align: center;
+
+    bottom: 42px;
+}
+
+#bio-textarea {
+    width: 100%;
+    position: relative;
+    bottom: 53px;
+    padding: 5px;
+    height: 100%;
+
+
+
+}
+
+
+#add-text {
+    position: relative;
+    right: 31px;
+}
+
+
+
+.editpencil {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 150px;
+
+    bottom: 56px;
+    cursor: pointer;
+
+}
+
+.editInfo {
+    height: 40px;
+    width: 40px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    float: right;
+}
+
+
+.edit-bio {
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+.value-asign {
+    text-align: right;
+}
+
+.value-float {
+    float: left;
+}
+
+#pfp-size {
+    height: 150px;
+    width: 150px;
+}
+
+/*
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+    width: 75%;
+    min-height: 85%;
+    margin-top: 10px;
+    position: absolute;
+    border: 0.5rem solid orange;
+    margin-left: 20px;
+    transform: translate(8%, -0%);
+
+
+**/
