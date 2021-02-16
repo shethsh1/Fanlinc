@@ -3,10 +3,10 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 # change to your mysql credentials
 
-HOST="localhost"
-USERNAME="root"
-PASSWORD="147258369"
-DB="cscc01"
+HOST="sql5.freemysqlhosting.net"
+USERNAME="sql5393277"
+PASSWORD="bZCYFvJmZB"
+DB="sql5393277"
 
 # don't change
 path = 'mysql+pymysql://%s:%s@%s/%s?charset=utf8mb4'
